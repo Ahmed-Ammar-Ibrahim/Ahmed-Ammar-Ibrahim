@@ -1,32 +1,85 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Ahmed Ammar Ibrahim</h1>
-<h3 align="center"> Product Development Engineer | Samsung Electronics </h3>
-<p align="center"> <img align="center" alt="Coder GIF" height=250 width=350 src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" /> </p>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-ammar-ibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ammar-ibrahim" /> </p>
+<img src="https://raw.githubusercontent.com/ahmed-ammar-ibrahim/ahmed-ammar-ibrahim/main/assets/banner.gif" alt="Ahmed Ammar Ibrahim Banner" width="100%">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-ammar-ibrahim" alt="ahmed-ammar-ibrahim" /></a> </p>
+<h1>Hi 👋, I'm Ahmed Ammar Ibrahim</h1>
 
-<p align="left"> <a href="https://twitter.com/ahmedammar725" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedammar725?logo=twitter&style=for-the-badge" alt="ahmedammar725" /></a> </p>
+<h3>Product Development Engineer at Samsung Electronics</h3>
 
-- 🔭 I’m currently working on **Embedded systems **
-
-- 🌱 I’m currently learning **AI and Data Anaylsis**
-
-- 📫 How to reach me **ahmedammar725@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ahmedammar725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedammar725" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-ammar-ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-ammar-ibrahim" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmedammar725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmedammar725" height="30" width="40" /></a>
+<p>
+  <a href="mailto:ahmedammar725@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ahmedammar725%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-ammar-ibrahim" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Ammar%20Ibrahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/ahmedammar725" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@ahmedammar725-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/ahmedammar725" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@ahmedammar725-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=ahmed-ammar-ibrahim&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-ammar-ibrahim&show_icons=true&locale=en&layout=compact" alt="ahmed-ammar-ibrahim" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-ammar-ibrahim&show_icons=true&locale=en" alt="ahmed-ammar-ibrahim" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ammar-ibrahim&" alt="ahmed-ammar-ibrahim" /></p>
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **embedded systems**
+- 🌱 Currently learning **AI and data analysis**
+- 💼 Product Development Engineer at **Samsung Electronics**
+- 📫 Reach me at **ahmedammar725@gmail.com**
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="45" height="45">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45">
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45">
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45">
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45">
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="45" height="45">
+  </a>
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="45" height="45">
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45">
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahmed-ammar-ibrahim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics" width="48%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-ammar-ibrahim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=ahmed-ammar-ibrahim&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%">
+
+</div>
