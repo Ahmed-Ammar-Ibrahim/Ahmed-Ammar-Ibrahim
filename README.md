@@ -29,9 +29,9 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **embedded systems**
+- 🔭 Currently working on **TV embedded systems**
 - 🌱 Currently learning **AI and data analysis**
-- 💼 Product Development Engineer at **Samsung Electronics**
+- 💼 Senior Product Development Engineer at **Samsung Electronics**
 - 📫 Reach me at **ahmedammar725@gmail.com**
 
 ---
